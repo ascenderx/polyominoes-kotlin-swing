@@ -24,6 +24,6 @@
   </target>
 
   <target name="build">
-    <kotlinc src="${dir.src}" output="${file.build}"/>
+    <kotlinc src="${dir.src}" output="${dir.build}/${file.build}"/>
   </target>
 </project>
