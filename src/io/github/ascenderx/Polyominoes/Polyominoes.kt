@@ -9,11 +9,6 @@ import io.github.ascenderx.Polyominoes.models.InputHandler
 import io.github.ascenderx.Polyominoes.views.GameCanvas
 import io.github.ascenderx.Polyominoes.views.GameWindow
 
-class Polyominoes {
-  companion object {
-    @JvmStatic
-    fun main(args: Array<String>) {
-      
-    }
-  }
+fun main(args: Array<String>) {
+  
 }
