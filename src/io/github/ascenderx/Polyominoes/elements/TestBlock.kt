@@ -1,3 +1,3 @@
-package io.github.ascenderx.Polyominoes.elements
+package io.github.ascenderx.polyominoes.elements
 
 class TestBlock

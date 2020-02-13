@@ -1,3 +1,3 @@
-package io.github.ascenderx.Polyominoes.models
+package io.github.ascenderx.polyominoes.models
 
 interface Tickable
